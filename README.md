@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Love to create and learn a lot
-Primarily interested in Rust, Typescript, React, GraphQL, GRPC, distributed systems, kubernetes
+Love to create and learn a lot.
+Primarily interested in Rust🦀, Typescript, React, GraphQL, GRPC, distributed systems, kubernetes
 <!--
 **Oyelowo/oyelowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
