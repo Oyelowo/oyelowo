@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Love to create and learn a lot.
+I am a Fullstack Engineer & Data scientist.
 
 Primarily work with Rust🦀, Typescript/Javascript, python, React, GraphQL, GRPC, distributed systems, kubernetes etc
+
 <!--
 **Oyelowo/oyelowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
