@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I am a Fullstack Engineer & Data scientist.
+Fullstack Engineer & Data scientist.
 
 Primarily work with Rust🦀, Typescript/Javascript, python, React, GraphQL, GRPC, distributed systems, kubernetes etc
 
