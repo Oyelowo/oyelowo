@@ -1,7 +1,7 @@
-Full-stack Software Engineer & Data scientist.
+<!-- Full-stack Software Engineer & Data scientist. -->
 
 
-Rust🦀, Typescript/Javascript, python, R, React, GraphQL, GRPC, Event Buses, kubernetes etc, in distributed systems
+<!-- Rust🦀, Typescript/Javascript, python, R, React, GraphQL, GRPC, Event Buses, kubernetes etc, in distributed systems -->
 
 <!--
 **Oyelowo/oyelowo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
