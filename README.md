@@ -1,5 +1,15 @@
 <!-- Full-stack Software Engineer & Data scientist. -->
 
+👋 Hi, I'm Oyelowo Oyedayo, a Fullstack Software Engineer and the creator of Surreal-ORM, a pioneering Object-Relational Mapping and query-building library for Rust. 
+
+🔭 I have a passion for developing and designing solidly tested software solutions and have extensive experience with a variety of technologies and tools, including Rust, TypeScript, JavaScript, Python, Java, R, PostgresQL, MongoDB, Kubernetes, and AWS.
+
+🌱 I'm a lifetime learner, always curious about new technologies, system behaviors, and customer use cases. 
+
+📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/oyelowo-oyedayo) or check out my [YouTube channel](https://www.youtube.com/codebreather) for educational content.
+
+💼 Currently, I am focused on empowering developers to manage data with a fresh perspective in Rust through my book "Mastering Graph Databases with Surreal-ORM in Rust".
+
 
 <!-- Rust🦀, Typescript/Javascript, python, R, React, GraphQL, GRPC, Event Buses, kubernetes etc, in distributed systems -->
 
