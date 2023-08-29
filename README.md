@@ -6,7 +6,7 @@
 
 🌱 I'm a lifetime learner, always curious about new technologies, system behaviors, and customer use cases. 
 
-📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/oyelowo-oyedayo) or check out my [YouTube channel](https://www.youtube.com/codebreather) for educational content.
+<!-- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/oyelowo) or check out my [YouTube channel](https://www.youtube.com/@codebreatherHQ/streams) for educational content. -->
 
 💼 Currently, I am focused on empowering developers to manage data with a fresh perspective in Rust through my book "Mastering Graph Databases with Surreal-ORM in Rust".
 
