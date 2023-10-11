@@ -1,6 +1,6 @@
 <!-- Full-stack Software Engineer & Data scientist. -->
 
-👋 Hi, I'm Oyelowo, a Fullstack Software Engineer and the creator of [Surreal-ORM](https://github.com/Oyelowo/surreal-orm), a pioneering Object-Relational Mapping and query-building library for Rust. 
+👋 Hi, I'm Oyelowo, a Fullstack Software Engineer and the creator of [Surreal-ORM](https://github.com/Oyelowo/surreal-orm), a pioneering Object-Relational Mapping and query-building library for Rust and [Twust](https://github.com/Oyelowo/twust).
 
 🔭 I have a passion for developing and designing solidly tested software solutions and have extensive experience with a variety of technologies and tools, including Rust, TypeScript, JavaScript, Python, Java, R, PostgresQL, MongoDB, Kubernetes, and AWS.
 
