@@ -4,7 +4,7 @@
 
 🔭 I have a passion for developing and designing solidly tested software solutions and have extensive experience with a variety of technologies and tools, including Rust, TypeScript, JavaScript, Python, Java, R, PostgresQL, MongoDB, Kubernetes, and AWS.
 
-🌱 I'm a lifetime learner, always curious about new technologies, system behaviors, and customer use cases. 
+🌱 I'm a lifelong learner, always curious about new technologies, system behaviors, and customer use cases. 
 
 <!-- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/oyelowo) or check out my [YouTube channel](https://www.youtube.com/@codebreatherHQ/streams) for educational content. -->
 
